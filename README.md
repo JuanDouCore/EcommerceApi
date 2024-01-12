@@ -9,7 +9,7 @@ A su vez cuenta con validaciones de seguridad automaticas para los pagos. Por ot
 
 ## Tecnologías Utilizadas 🛠️
 - Spring Boot 🌱
-- Spring Data JPA 🔄
+- Spring Data JPA + Hibernate 🔄
 - Spring Security + JWT 🔐
 - JUnit + Mockito 🧪
 - PostgreSQL 🗃️
