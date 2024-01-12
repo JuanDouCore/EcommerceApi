@@ -44,5 +44,10 @@ En este video se hace demostración del inicio de sesión de un empleado el cual
 
 ![image](https://github.com/JuanDouCore/EcommerceApi/assets/22947314/9564697b-3826-4ba5-896e-3451ba50137a)
 
+## Diagrama Entidad-Relacion 📊
+
+![image](https://github.com/JuanDouCore/EcommerceApi/assets/22947314/b0018ce3-d200-4026-a9d8-185f931938d6)
+
+
 ## Autor ✏️
 [![Juan Ferrara](https://img.shields.io/badge/LinkedIn-JuanFerrara-blue)](https://www.linkedin.com/in/juan-ferrara/)
