@@ -3,7 +3,7 @@
 API RESTful diseñada para representar el funcionamiento convencional de un tipico ecommerce buscando satisfacer todas las necesidades necesarias de uno de estos. Desde la muestra y gestion de productos junto con categorias, a la creacion de ordenes y pagos de las mismas con pasarela como MercadoPago.
 A su vez cuenta con validaciones de seguridad automaticas para los pagos. Por otro lado posee una gestion interna para el eficiente despacho de las ordenes, y a su vez control de los clientes. Tambien posee una gestion operaria de empleados y de todo el sistema integral de la tienda.
 
-**Deploy**: [https://ecommerceapi-jjf.fly.dev/swagger-ui/index.html](https://ecommerceapi-jjf.fly.dev/swagger-ui/index.html)
+**Deploy**: [https://ecommerceapi-jjf.fly.dev/docs](https://ecommerceapi-jjf.fly.dev/docs)
 
 ☝️☝️ Ese enlace lleva al sitio donde se pueden probar los endpoints de la API junto con su documentación. _Demora un poco en cargar al principio por el hosting_
 
